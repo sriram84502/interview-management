@@ -229,7 +229,7 @@
                 </form>
                 <div class="form-content form-sm p-3">
                     <div class="form-items">
-                        <h3 class="form-title">Complete the form</h3>
+                        <h3 class="form-title">Candiate Performance</h3>
                         <form action="interviewers" id="secondform" method="post" >
                             <div class="form-group">
                                 <label>Written Exam (30M)</label>
@@ -249,7 +249,8 @@
                                 <label>Interview</label>
                                 <div class="form-row">
                                     <div class="col">
-                                        <input type="number" class="form-control" id="subk" name="subk" placeholder="Subject Knowledge">
+                                        <input type="number" class="form-control" id="subk" name="subk"
+                                         placeholder="Subject Knowledge">
                                     </div>
                                     <div class="col">
                                         <input type="number" class="form-control" id="presentation" name="presentation" placeholder="Presentation" min="0" max="10">
